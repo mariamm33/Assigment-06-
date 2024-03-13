@@ -1,0 +1,232 @@
+
+#first{
+  display: flex;
+    margin: 0;
+    padding-left: 30px;
+    overflow: hidden;
+    background-color: #ff0090;
+    background-image:  #ff0090;
+    margin: 0px;
+    flex-direction: row;
+    justify-content: center;
+    width: 2000px;
+
+}
+.second {
+  flex-direction: row;
+  display: flex;
+}
+
+.buttonn {
+  background-color: rgb(251, 246, 250);
+  border-color: rgb(236, 15, 151);
+  text-align: center;
+  border-style: solid;
+  border-color: rgb(210, 29, 147);
+  padding-left: 15px;
+  padding-top:15px ;
+  padding-right: 15px;
+  padding-bottom: 10px ;
+  border-radius: 10px;
+  color: rgb(204, 34, 145);
+  margin-top: 15px;
+  margin-bottom: 10px;
+  margin-left: 950px;
+  height: 60px;
+  width: 90px;
+}
+.buttonn:hover {
+  color: #ff0090;
+}
+
+.button2 {
+  background-color: rgb(236, 15, 151);
+  border-color: rgb(236, 15, 151);
+  text-align: center;
+  border-style: solid;
+  border-color: white;
+  padding-left: 15px;
+  padding-top:10px ;
+  padding-right: 15px;
+  padding-bottom: 10px ;
+  border-radius: 10px;
+  color: white;
+  margin-top: 15px;
+  margin-bottom: 10px;
+  margin-left: 20px;
+  margin-right: 30px;
+  height: 60px;
+  width: 90px;
+}
+.button2:hover{
+color: #d9d4d6;
+}  
+#world {
+  width: 70px;
+  height: 60px;
+  box-sizing: border-box;
+  border: 2px solid #f6f2f2;
+  padding-left: 15px ;
+  margin-top: 15px;
+  margin-bottom: 10px;
+  margin-left: 0px;
+  margin-right: 50px;
+  background-repeat: no-repeat;
+  border-radius: 10px;
+  color: #ff0090;
+}
+
+.logo {
+justify-content: center;
+flex-direction: row;
+padding-left: 200px;
+height:100px ;
+width: 150px;
+}
+.shopping {
+margin-top: 20px;
+}
+  .text {
+    text-align: left;
+    color: white;
+    font-weight: bold;
+    padding-left: 25px;
+    padding-right: 25px;
+    
+  }
+  .button:hover {
+background-color: rgb(228, 223, 223)
+
+  }
+  .button {
+    background-color:  #ff0090;
+    border-color:  #ff0090;
+    text-align: center;
+    border-style: solid;
+    border-color: white;
+    padding-left: 15px;
+    padding-top:10px ;
+    padding-right: 10px;
+    padding-bottom: 10px ;
+    border-radius: 5px;
+    color: white;
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+  
+.second {
+  border-style: solid;
+  border: rgb(246, 3, 230);
+background-color: white;
+
+}
+ul{
+  list-style-type: none;
+  overflow: hidden;
+  padding: 0px;
+
+}
+li {
+  float: right;
+}
+.love {
+  font-size: xx-large;
+  color: rgb(29, 29, 29);
+  font-family: 'Times New Roman', Times, serif;
+  padding-left: 150px;
+  
+}
+.bot {
+  margin-bottom: 0px;
+margin-top: 0px;
+padding-left: 160px;
+padding-right:170px ;
+padding-top:20px ;
+padding-bottom: 20px;
+border-radius: 30px;
+background-color: #fbf9f9;
+border: #fbf9f9;
+color: #a9a6a7;
+margin-right: 0px;
+margin-left: 0px;
+
+}
+.but {
+  background-color: rgb(236, 15, 151);
+  border-color: rgb(236, 15, 151);
+  text-align: center;
+  border-style: solid;
+  border-color: white;
+  padding-left: 15px;
+  padding-top:10px ;
+  padding-right: 15px;
+  padding-bottom: 10px ;
+  border-radius: 10px;
+  color: white;
+  height: 60px;
+
+
+}
+.threee {
+  background-image: url("ff.png");
+  width: 2000px;
+}
+.dinnigg {
+  margin-left: 900px;
+  margin-bottom: 0px;
+  margin-top: 0px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  
+}
+
+.forth {
+background-color: white;
+border-style: inset;
+border-radius: 40px;
+box-shadow: whitesmoke;
+grid-column: 1 / -1;
+font-size: 14px;
+margin-left: 300px;
+padding-left: 30px;
+margin-right: 800px;
+margin-top: 400px;
+padding-right: 60px;
+padding-bottom: 20px;
+padding-top: 30px;
+position: absolute;
+top: 1000px;
+
+}
+.for {
+  background: whitesmoke;
+}
+.home-vendor-pk {
+background-position: 2000%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+    object-fit: cover;
+    top: 60px;
+    width: 2000px;
+}
+.fifth {
+  background-color: white;
+border-style: inset;
+border-radius: 40px;
+box-shadow: whitesmoke;
+grid-column: 1 / -1;
+font-size: 14px;
+margin-left: 300px;
+padding-left: 30px;
+margin-right: 800px;
+margin-top: 1250px;
+padding-right: 60px;
+padding-bottom: 20px;
+padding-top: 30px;
+position: absolute;
+top: 1000px;
+}
+
+
+
